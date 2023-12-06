@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/comprano/jdinxin.compranoseua.com.br"
+PassengerBaseURI "/"
+PassengerNodejs "/home/comprano/nodevenv/jdinxin.compranoseua.com.br/16/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

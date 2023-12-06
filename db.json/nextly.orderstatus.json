@@ -1,0 +1,7 @@
+[
+{"_id":"ObjectId(\"6131278e07625b5635a8709f\")","order":1,"title":"Payment Okay","image":"/images/uploads/orderstatus/1630611472091.svg","created_user":{"name":"Super Admin","id":"5f65e046fda80175a294c73c"},"__v":0,"createdAt":"2022-02-03T19:23:24.380Z","updatedAt":"2022-02-03T19:23:24.380Z"},
+{"_id":"ObjectId(\"613127a007625b5635a870aa\")","order":2,"title":"Waiting","image":"/images/uploads/orderstatus/1630611460021.svg","created_user":{"name":"Super Admin","id":"5f65e046fda80175a294c73c"},"__v":0,"createdAt":"2022-02-03T19:23:24.380Z","updatedAt":"2022-02-03T19:23:24.380Z"},
+{"_id":"ObjectId(\"613128b5375fe357346e48cc\")","order":3,"title":"Billing","image":"/images/uploads/orderstatus/1630611637567.svg","created_user":{"name":"Super Admin","id":"5f65e046fda80175a294c73c"},"__v":0,"createdAt":"2022-02-03T19:23:24.380Z","updatedAt":"2022-02-03T19:23:24.380Z"},
+{"_id":"ObjectId(\"61312926375fe357346e48d7\")","order":4,"title":"Forwarding","image":"/images/uploads/orderstatus/1630611750308.svg","created_user":{"name":"Super Admin","id":"5f65e046fda80175a294c73c"},"__v":0,"createdAt":"2022-02-03T19:23:24.380Z","updatedAt":"2022-02-03T19:23:24.380Z"},
+{"_id":"ObjectId(\"613129b4375fe357346e48e7\")","order":5,"title":"Cancel Shipping","image":"/images/uploads/orderstatus/1630611892504.svg","created_user":{"name":"Super Admin","id":"5f65e046fda80175a294c73c"},"__v":0,"createdAt":"2022-02-03T19:23:24.380Z","updatedAt":"2022-02-03T19:23:24.380Z"}
+]

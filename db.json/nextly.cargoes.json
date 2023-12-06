@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "ObjectId(\"6130d1d4728019432f23a33f\")",
+        "before_price": 50,
+        "isActive": true,
+        "title": "Fedx",
+        "link": "https://www.fedex.com/",
+        "image": "/images/uploads/cargoes/1643463872995.png",
+        "created_user": {
+            "name": "Super Admin",
+            "id": "5f65e046fda80175a294c73c"
+        },
+        "order": 2,
+        "price": 20,
+        "__v": 0,
+        "createdAt": "2022-02-03T19:23:25.045Z",
+        "updatedAt": "2022-02-04T10:15:55.840Z"
+    },
+    {
+        "_id": "ObjectId(\"61fcfe0d015b6a904597b156\")",
+        "before_price": 60,
+        "isActive": true,
+        "order": 1,
+        "title": "UPS",
+        "price": 20,
+        "link": "https://ups.com",
+        "image": "/images/uploads/cargoes/1647441003320.png",
+        "created_user": {
+            "name": "Super Admin Admin",
+            "id": "5f65e046fda80175a294c73c"
+        },
+        "createdAt": "2022-02-04T10:21:01.409Z",
+        "updatedAt": "2022-03-06T21:05:16.086Z",
+        "__v": 0
+    }
+]
